@@ -8,4 +8,4 @@ Argumenten
 
 Reflectie
 
-Ik heb voor react gekozen omdat ik weet dat het een van de meest gebruikte frameworks is. Het leek me erg interessant om daar wat van te leren. Eerst vond ik het echt heel lastig om al die apps etc te installeren en dan ook nog is die mapjes aanmaken. Maar ik had uiteindelijk ergens eens stappenplan gevonden en gevolgd en ik denk dat het gelukt is.
+Ik heb voor react gekozen omdat ik weet dat het een van de meest gebruikte frameworks is. Het leek me erg interessant om daar wat van te leren. Eerst vond ik het echt heel lastig om al die apps etc te installeren en dan ook nog is die mapjes aanmaken. Maar ik had uiteindelijk ergens eens stappenplan gevonden en gevolgd en ik denk dat het gelukt is. En de JSON file was redelijk makkelijk toen ik het doorhad.
